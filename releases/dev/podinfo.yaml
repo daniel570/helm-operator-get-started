@@ -15,6 +15,6 @@ spec:
     ref: master
   values:
     image: gcr.io/develeap/podinfo:dev-8sfmy9wk
-    replicaCount: 1
+    replicaCount: 2
     hpa:
       enabled: false
