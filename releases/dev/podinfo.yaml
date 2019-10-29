@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: gcr.io/develeap/podinfo:dev-pbfufjvl
+    image: gcr.io/develeap/podinfo:dev-cxxoadnw
     replicaCount: 1
     hpa:
       enabled: false
