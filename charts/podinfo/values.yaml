@@ -3,7 +3,7 @@
 replicaCount: 1
 backend: http://backend-podinfo:9898/echo
 
-image: gcr.io/devekeap/podinfo:dev-8sfmy9wk  	
+image: gcr.io/develeap/podinfo:dev-8sfmy9wk  	
 imagePullPolicy: IfNotPresent
 
 service:
